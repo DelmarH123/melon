@@ -1,0 +1,25 @@
+{
+	"version": " Melon Stick People ",
+
+
+
+	"applovinsdk": "KFl9xWFv0Hky6Xfb6wVmxJEv6RuggDdWBq7g7dBqNGPpFtlyHGPkFxeLElM9zQFiDGExekQ6V_sIsNrpW_46dD",
+	"applovinbanner": "",
+	"applovininter": "179e8b674523cc6c",
+	"applovinreward": "",
+
+	"admobbannerId": "",
+	"admobInterId": "ca-app-pub-3940256099942544/9484262297",
+	"admobReward": "",
+
+
+
+	"adsswitch details ": "1:admob 2:applovin 0.auto",
+
+	"adsSwitchInter": "1",
+	"adsSwitchBanner": "1",
+	"adsSwitchReward": "1",
+	"adscounter details ": "1",
+
+	"adscounter": "0"
+}
