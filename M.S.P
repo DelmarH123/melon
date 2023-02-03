@@ -19,7 +19,7 @@
 	"adsSwitchInter": "1",
 	"adsSwitchBanner": "1",
 	"adsSwitchReward": "1",
-	"adscounter details ": "1",
+	"adscounter details ": "0",
 
 	"adscounter": "0"
 }
