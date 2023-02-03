@@ -9,7 +9,7 @@
 	"applovinreward": "",
 
 	"admobbannerId": "",
-	"admobInterId": "ca-app-pub-3940256099942544/9484262297",
+	"admobInterId": "ca-app-pub-4171384147934698/9484262297",
 	"admobReward": "",
 
 
