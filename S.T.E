@@ -16,7 +16,7 @@
 
 	"adsswitch details ": "1:admob 2:applovin 0.auto",
 
-	"adsSwitchInter": "1",
+	"adsSwitchInter": "2",
 	"adsSwitchBanner": "1",
 	"adsSwitchReward": "1",
 	"adscounter details ": "0",
