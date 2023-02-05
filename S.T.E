@@ -9,14 +9,14 @@
 	"applovinreward": "",
 
 	"admobbannerId": "",
-	"admobInterId": "ca-app-pub-4171384147934698/2484009175",
+	"admobInterId": "ca-app-pub-5937592222587453/3448550564",
 	"admobReward": "",
 
 
 
 	"adsswitch details ": "1:admob 2:applovin 0.auto",
 
-	"adsSwitchInter": "0",
+	"adsSwitchInter": "1",
 	"adsSwitchBanner": "1",
 	"adsSwitchReward": "1",
 	"adscounter details ": "0",
